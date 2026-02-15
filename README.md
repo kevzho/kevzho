@@ -1,5 +1,5 @@
 <div align="center">
-  Hey, I'm Kevin!
+  <h1>Hey, I'm Kevin!</h1>
   <p>
     <strong>Data-driven problem solver</strong> passionate about turning data into actionable insights
   </p>
@@ -18,7 +18,7 @@
   - Machine Learning & Artificial Intelligence  
   - Data Science & Analytics  
   - Building interpretable, production-ready models  
-- ⚡ **Fun fact**: I enjoy optimizing both code *and* coffee brewing time ⏱️☕
+- ⚡ **Fun fact**: I love the 76'ers.
 
 I'm always excited to work on challenging problems where data meets real-world impact.
 
