@@ -54,7 +54,7 @@ I'm always excited to work on challenging problems where data meets real-world i
 ## Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kevin-zhou-423827308/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kevin-zhou-423827308/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
