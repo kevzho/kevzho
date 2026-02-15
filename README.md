@@ -51,20 +51,6 @@ I'm always excited to work on challenging problems where data meets real-world i
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin's GitHub stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevzho&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzho&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
 ## Let's Connect
 
 <div align="center">
