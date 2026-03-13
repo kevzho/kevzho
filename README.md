@@ -17,8 +17,7 @@
 - **Interests & Focus**:  
   - Machine Learning & Artificial Intelligence  
   - Data Science & Analytics  
-  - Building interpretable, production-ready models  
-- ⚡ **Fun fact**: I love the 76'ers.
+  - Building interpretable, production-ready models
 
 I'm always excited to work on challenging problems where data meets real-world impact.
 
