@@ -1,75 +1,72 @@
 <div align="center">
-  <h1>Hey, I'm Kevin!</h1>
-  <p>
-    <strong>Data-driven problem solver</strong> passionate about turning data into actionable insights
-  </p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+Machine+Learning;Python+%7C+R+%7C+Java+%7C+C%2B%2B;Learning+Kotlin;Building+AI-powered+solutions" alt="Typing animation" />
+
+```
+██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
+██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
+█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
+██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
+██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Data+Science+%2F+Machine+Learning;Building+things+that+learn+from+data;Python+%7C+R+%7C+Java+%7C+C%2B%2B+%7C+Kotlin)](https://git.io/typing-svg)
+
 </div>
 
-<br />
+---
 
-## About Me
+**`> whoami`**
 
-- **Currently exploring**: End-to-end machine learning pipelines, statistical modeling, and scalable data systems  
-- **Learning**: Kotlin (for modern Android + backend), advanced deep learning techniques, MLOps  
-- **Mindset**: Data-driven — I believe the best decisions come from evidence, experimentation, and rigorous validation  
-- **Interests & Focus**:  
-  - Machine Learning & Artificial Intelligence  
-  - Data Science & Analytics  
-  - Building interpretable, production-ready models
+Data-driven problem solver turning messy data into models that matter. I build end-to-end ML pipelines, statistical models, and interpretable AI systems — with an eye toward production-readiness.
 
-I'm always excited to work on challenging problems where data meets real-world impact.
+Currently learning **Kotlin compiler systems** and diving deep into **advanced unsupervised artificial neural networks**.
 
-<br />
+---
 
-## Tech Stack & Tools
+**`> stack --list`**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin (learning)" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+**`> github --stats`**
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kevzho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&hide=stars&hide_rank=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=kevzho&theme=github-dark&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevzho&theme=github-compact&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+**`> connect --all`**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-zhou-423827308/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://kevzho.github.io)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinz09302009@gmail.com)
+
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <sub><i>"You gotta be odd to be number one."</i></sub>
 </div>
-
-<br />
-
-## Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kevin-zhou-423827308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://kevzho.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <a href="kevinz09302009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <!-- Add Twitter/X, Kaggle, Medium, etc. if you have them -->
-</div>
-
-<br />
-
-> “You gotta be odd to be the number 1” – Random a** tiktok
-
-Thanks for visiting! Feel free to explore my repositories, open an issue, or reach out if you'd like to collaborate on data science, ML, or AI projects.
