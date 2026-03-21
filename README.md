@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Data+Science+%2F+Machine+Learning;Building+things+that+learn+from+data;Python+%7C+R+%7C+Java+%7C+C%2B%2B+%7C+Kotlin)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/kevzho/kevzho/main/banner.svg" width="100%"/>
 
 </div>
 
