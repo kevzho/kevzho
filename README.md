@@ -22,6 +22,18 @@ Data-driven problem solver turning messy data into models that matter. I build e
 Currently learning **Kotlin compiler systems** and diving deep into **advanced unsupervised artificial neural networks**.
 
 ---
+**`> kevin.js`**
+```javascript
+const kevin = {
+  pronouns: "he" | "him",
+  nationality: "Chinese",
+  code: ["Python", "R", "Java", "C++", "Kotlin", "SQL"],
+  tools: ["PyTorch", "TensorFlow", "scikit-learn", "Docker", "Streamlit", "Git"],
+  learning: ["Kotlin compiler systems", "Advanced unsupervised neural networks"],
+  askMeAbout: ["ML pipelines", "statistical modeling", "data science"]
+}
+```
+---
 
 **`> stack --list`**
 
