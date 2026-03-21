@@ -1,21 +1,10 @@
 <div align="center">
 
-```
-██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
-█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
-
-<img src="https://raw.githubusercontent.com/kevzho/kevzho/main/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kevzho/kevzho/main/kev.gif" width="100%"/>
 
 </div>
 
 ---
-
-**`> whoami`**
 
 Data-driven problem solver turning messy data into models that matter. I build end-to-end ML pipelines, statistical models, and interpretable AI systems — with an eye toward production-readiness.
 
@@ -56,19 +45,6 @@ const kevin = {
 
 ---
 
-**`> github --stats`**
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kevzho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&hide=stars&hide_rank=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=kevzho&theme=github-dark&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevzho&theme=github-compact&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&hide_border=true" />
-</div>
-
----
-
 **`> connect --all`**
 
 <div align="center">
@@ -82,3 +58,4 @@ const kevin = {
 <div align="center">
   <sub><i>"You gotta be odd to be number one."</i></sub>
 </div>
+
