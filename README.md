@@ -8,7 +8,7 @@
 
 Data-driven problem solver turning messy data into models that matter. I build end-to-end ML pipelines, statistical models, and interpretable AI systems — with an eye toward production-readiness.
 
-Currently learning & working on **Kotlin compiler systems**.
+Currently learning & working on **Kotlin compiler systems** + Human-Centered AI.
 
 ---
 **`> kevin.js`**
