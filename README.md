@@ -18,7 +18,7 @@ const kevin = {
   nationality: "Chinese",
   code: ["Python", "R", "Java", "C++", "Kotlin", "SQL"],
   tools: ["PyTorch", "TensorFlow", "scikit-learn", "Docker", "Streamlit", "Git"],
-  learning: ["Kotlin compiler systems", "Advanced unsupervised neural networks"],
+  learning: ["Kotlin compiler systems", "Graph-based neural networks", "Human-computer interaction + social computing"],
   askMeAbout: ["ML pipelines", "statistical modeling", "data science"]
 }
 ```
