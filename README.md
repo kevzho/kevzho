@@ -5,6 +5,7 @@
 </div>
 
 ---
+![](https://komarev.com/ghpvc/?username=kevzho)
 
 Data-driven problem solver turning messy data into models that matter. I build end-to-end ML pipelines, statistical models, and interpretable AI systems — with an eye toward production-readiness.
 
