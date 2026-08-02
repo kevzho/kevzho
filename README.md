@@ -1,8 +1,3 @@
-<audio controls>
-  <source src="audio-file.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 researcher, builder, startup enthusiast.
 
 ---
