@@ -1,15 +1,9 @@
-<div align="center">
+<audio controls>
+  <source src="audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-<img src="https://raw.githubusercontent.com/kevzho/kevzho/main/kev.gif" width="100%"/>
-
-</div>
-
----
-![](https://komarev.com/ghpvc/?username=kevzho)
-
-Data-driven problem solver turning messy data into models that matter. I build end-to-end ML pipelines, statistical models, and interpretable AI systems — with an eye toward production-readiness.
-
-Currently learning & working on **Kotlin compiler systems** + Human-Centered AI.
+researcher, builder, startup enthusiast.
 
 ---
 **`> kevin.js`**
