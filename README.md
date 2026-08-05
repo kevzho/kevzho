@@ -6,9 +6,8 @@ researcher, builder, startup enthusiast.
 const kevin = {
   pronouns: "he" | "him",
   nationality: "Chinese",
-  code: ["Python", "R", "Java", "C++", "Kotlin", "SQL"],
-  tools: ["PyTorch", "TensorFlow", "scikit-learn", "Docker", "Streamlit", "Git"],
-  learning: ["Kotlin compiler systems", "HCI + social computing", "JEPAs + World Models"],
+  hobbies: ["Piano", "Lifting", "Soccer", "Reading"]
+  working on: ["Kotlin compiler systems", "HCI + social computing", "JEPAs + World Models"],
   askMeAbout: ["ML pipelines", "statistical modeling", "data science"]
 }
 ```
