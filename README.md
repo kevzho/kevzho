@@ -7,7 +7,7 @@ const kevin = {
   pronouns: "he" | "him",
   nationality: "Chinese",
   hobbies: ["Piano", "Lifting", "Soccer", "Reading"]
-  working on: ["Kotlin compiler systems", "HCI + social computing", "JEPAs + World Models"],
+  working on: ["HCI + social computing", "JEPAs + World Models"],
   askMeAbout: ["ML pipelines", "statistical modeling", "data science"]
 }
 ```
